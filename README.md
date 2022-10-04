@@ -1,2 +1,6 @@
-# 32hoursPatrickCollins
-A brief summary of Patrick Collins's 32 hour Blockchain development course
+
+# Project Title
+
+A brief  inro to freeCodeCamp Course by Patrick Collins
+
+
